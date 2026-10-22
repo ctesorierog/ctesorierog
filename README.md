@@ -13,6 +13,7 @@ AI Engineering student at **Tecnun – Universidad de Navarra** (San Sebastián,
 | [Lleva](https://github.com/ctesorierog/urbain-lleva-market-agent) | LLM agent that ran a mobility company in a live simulated market (hackathon final) | Python, LangChain, REST APIs |
 | [Breast cancer ML](https://github.com/ctesorierog/breast-cancer-ml-diagnosis) | PCA/t-SNE/clustering + SVM. 98.2 % test accuracy, precision 1.00 | scikit-learn |
 | [Debt settlement MILP](https://github.com/ctesorierog/debt-settlement-milp) | Tricount settlement with provably minimal transfers | MATLAB, CPLEX |
+| [Vehicle sorting platform](https://github.com/ctesorierog/vehicle-sorting-platform) | IoT platform that classifies toy cars by length and routes them, with a live dashboard (team of 5) | ESP8266, C++, I²C sensors, FastAPI |
 | [Maritxu GPS](https://github.com/ctesorierog/maritxu-gps-dijkstra) | Dijkstra route engine over Basque towns | C++17, STL |
 | [scRNA classifier](https://github.com/ctesorierog/scrna-cell-type-classifier) | Neural net for 9 immune cell types, with a regularization study. 97.1 % test accuracy | Keras |
 | [German Credit](https://github.com/ctesorierog/german-credit-classification) | Credit-risk classification with LR, SVM and kNN | scikit-learn |
